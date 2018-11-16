@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtViewNome"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:paddingTop="@dimen/fab_margin"
+        android:text="NOME_FERRO_VELHO"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="40dp"
+        tools:paddingTop="26dp" />
+
+    <TextView
+        android:id="@+id/txtViewQualificacao"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:text="QUALIFICACAO_FERRO_VELHO"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="116dp" />
+
+    <TextView
+        android:id="@+id/txtViewDescricao"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:text="DESCRICACAO_FERRO_VELHO"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="219dp" />
+
+</LinearLayout>

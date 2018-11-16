@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "384202772486",
+    "firebase_url": "https://pi04-e6d6d.firebaseio.com",
+    "project_id": "pi04-e6d6d",
+    "storage_bucket": "pi04-e6d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384202772486:android:ffdf7f651ef1d3e1",
+        "android_client_info": {
+          "package_name": "com.app.anthony.pi4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384202772486-7q9c9jgh28fehc74300ft4c2jnqhkiph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.anthony.pi4",
+            "certificate_hash": "f997ede5423699937e1939378dd3af7662859d3e"
+          }
+        },
+        {
+          "client_id": "384202772486-e5kcq6cpvgs7jkarmqstlkb88dv09v5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.anthony.pi4",
+            "certificate_hash": "92fa8fe847f20f23f4d24f91cb59742de895fa44"
+          }
+        },
+        {
+          "client_id": "384202772486-g75pb6vf5s4jghsf74t50p2ebu6v2njq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgVCIGy3aG6AsDS7vn5adVz_7BEteDXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384202772486-g75pb6vf5s4jghsf74t50p2ebu6v2njq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
